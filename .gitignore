@@ -1,0 +1,5 @@
+/target/
+/dist/
+/research/touchdesigner/*-raw.json
+/research/touchdesigner/doctor.json
+.DS_Store
